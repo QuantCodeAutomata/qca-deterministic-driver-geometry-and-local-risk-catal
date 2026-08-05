@@ -1,0 +1,7 @@
+metric,equal_market_mean,model
+G-L_rel_qlike,1.0135414389410256,G-L
+T-L_rel_qlike,1.0252185329164858,T-L
+G-DP_rel_qlike,1.029383874487347,G-DP
+EWMA_rel_qlike,1.0537799845721365,EWMA
+G-C_rel_qlike,1.0682447428968433,G-C
+G-M_rel_qlike,1.0974372528157914,G-M
